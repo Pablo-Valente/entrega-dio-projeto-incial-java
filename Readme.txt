@@ -1,0 +1,1 @@
+post basico de um projeto que estava a trabalhar a um tempo atras, pois deixei o java para começar a mexer com C#.
